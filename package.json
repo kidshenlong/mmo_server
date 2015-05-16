@@ -1,0 +1,16 @@
+{
+  "name": "mmo_server",
+  "version": "1.0.0",
+  "description": "MMO Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Patterson-Muir <michaelpm91@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3",
+    "node-uuid": "^1.4.3",
+    "socket.io": "^1.3.5"
+  }
+}
